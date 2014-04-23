@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<eval>
+<ArrayOfItems>
+  <string><i>Overall course rating</i></string>
+  <string><i>Course length</i></string>
+  <string><i>Course contents</i></string>
+  <string><i>Work Load</i></string>
+  <string><i>Facilities satisfaction</i></string>
+</ArrayOfItems>
+</eval>

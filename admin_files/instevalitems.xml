@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<eval>
+<ArrayOfItems>
+  <string><i>Overall instructor rating</i></string>
+  <string><i>Instructor encouraged me to search on my own</i></string>
+  <string><i>Instructor was knowledgeable enough</i></string>
+  <string><i>Class time well used</i></string>
+  <string><i>Instructor was able to present clearly</i></string>
+</ArrayOfItems>
+</eval>
