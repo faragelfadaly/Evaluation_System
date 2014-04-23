@@ -1,1 +1,1 @@
-My first Repository
+Educational Institute Evaluation System
